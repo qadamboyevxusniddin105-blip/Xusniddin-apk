@@ -1,0 +1,6 @@
+{
+  "name": "Taomlar Menyusi",
+  "description": "Mazali taomlar menyusi, buyurtma qilish (shopping), hisob-kitob va xarid cheki (opshi shot).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
